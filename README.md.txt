@@ -1,0 +1,1 @@
+Each project includes a comprehensive PDF document that explains the case study in detail and provides clear documentation for every part of the code
